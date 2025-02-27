@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
                        .padding_left = PADDING_LEFT,
                        .invert = FALSE,
                        .no_color = FALSE,
-                       .charset_type = 'd',
+                       .charset_type = 'm',
                        .image_file = NULL};
 
     static struct option long_options[] = {

@@ -20,7 +20,7 @@ static const char *get_charset(char charset_type) {
     case 's':
         return CHARSET_SPARSE;
     default:
-        return CHARSET_DENSE;
+        return CHARSET_MEDIUM;
     }
 }
 

@@ -9,9 +9,8 @@
 #define IMG_ERROR_PARAM 3
 
 // Default config values
-#define DEFAULT_WIDTH 50
+#define DEFAULT_WIDTH 70
 #define PADDING_LEFT 8
-#define GAMMA 2.2
 #define MAX_HEIGHT 300
 
 // ASCII sets
